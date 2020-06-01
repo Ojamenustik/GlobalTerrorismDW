@@ -10,4 +10,5 @@ Hurtownia danych z danymi o terroryzmie światowym ze stron:
 * https://www.start.umd.edu/gtd/ 
 * https://en.wikipedia.org/wiki/List_of_terrorist_incidents#1970%E2%80%93present (za pomocą scrapingu)
 
-# Repozytorium przeniesione na Azure DevOps --> https://dev.azure.com/annagajda/Global%20Terrorism%20DW/_git/GlobalTerrorismDW
+# Repozytorium przeniesione na Azure DevOps 
+--> https://dev.azure.com/annagajda/Global%20Terrorism%20DW/_git/GlobalTerrorismDW
